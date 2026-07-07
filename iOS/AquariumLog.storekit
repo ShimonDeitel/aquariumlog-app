@@ -1,0 +1,42 @@
+{
+  "identifier": "aquariumlog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500001",
+      "localizations": [],
+      "name": "Aquarium Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "aquariumlog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited entries and water-test trend charts",
+              "displayName": "Aquarium Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "aquariumlog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Aquarium Log Pro Monthly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
